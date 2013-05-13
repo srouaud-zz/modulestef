@@ -3,9 +3,9 @@
          xmlns:jcr="http://www.jcp.org/jcr/1.0"
          xmlns:jnt="http://www.jahia.org/jahia/nt/1.0">
     <modules jcr:primaryType="jnt:modules">
-        <article j:dependencies="default"
+        <stef_git_module j:dependencies="default"
                j:moduleType="module"
-               j:title="Jahia Article"
+                       j:title="Stef Git Module"
                jcr:primaryType="jnt:module">
                 <portlets jcr:primaryType="jnt:portletFolder"/>
                 <files jcr:primaryType="jnt:folder"/>
@@ -16,6 +16,6 @@
                 </templates>
                 
                 
-            </article>
+            </stef_git_module>
     </modules>
 </content>
