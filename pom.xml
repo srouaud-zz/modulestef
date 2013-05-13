@@ -46,15 +46,15 @@
         <groupId>org.jahia.modules</groupId>
         <version>6.7.0.0-SNAPSHOT</version>
     </parent>
-    <version>2.0.0-SNAPSHOT</version>
-    <artifactId>article</artifactId>
-    <name>Jahia Article</name>
+    <version>1.0.0-SNAPSHOT</version>
+    <artifactId>stef_git_module</artifactId>
+    <name>Stef Git Module</name>
     <packaging>bundle</packaging>
     <description>These are the custom module (Jahia Article) for running on a Jahia server.</description>
     <scm>
-        <connection>scm:git:git@github.com:Jahia/article.git</connection>
-        <url>scm:git:git@github.com:Jahia/article.git</url>
-        <developerConnection>scm:git:git@github.com:Jahia/article.git</developerConnection>
+        <connection>scm:git:git@github.com:srouaud/modulestef.git</connection>
+        <url>scm:git:git@github.com:srouaud/modulestef.git</url>
+        <developerConnection>scm:git:git@github.com:srouaud/modulestef.git</developerConnection>
     </scm>
     <repositories>
         <repository>
